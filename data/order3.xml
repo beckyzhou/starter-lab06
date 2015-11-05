@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Order #3 - My special order with peanut butterrr
+-->
+
+<!DOCTYPE order SYSTEM 'bonanza.dtd'>
+
+<order type="takeout">
+    <customer>Becky</customer>
+    <burger>
+        <patty type="beef"/>
+        <cheeses top="gruyere"/>
+        <topping type="shrooms"/>
+        <topping type="lettuce"/>
+        <topping type="tomato"/>
+        <sauce type="ketchup"/>
+        <sauce type="mayo"/>
+        <instructions>Put peanut butter in my burger please"</instructions>
+        <name>Peanut</name>
+    </burger>
+</order>
